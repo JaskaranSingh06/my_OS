@@ -1,7 +1,6 @@
 #ifndef	KEYBOARD_H
 #define KEYBOARD_H
 
-
 unsigned char scan(void);
 
 static char charmap[256] =
